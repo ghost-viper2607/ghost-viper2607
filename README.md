@@ -22,9 +22,6 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 <a href="https://github.com/ghost-viper2607">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ghost-viper2607" />
 </a>
-<a href="https://github.com/ghost-viper2607">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-viper2607&layout=compact&langs_count=12&hide=rust,go"/>
-</a>
 </div>
 
 <div align="center">
