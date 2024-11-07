@@ -20,8 +20,8 @@ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-16
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <div align="center">
 <a href="https://github.com/ghost-viper2607">
-  <img height=189 align="center" src="https://github-readme-stats.vercel.app/api?username=ghost-viper2607" />
-	 <img height=190 align="center" src="https://raw.githubusercontent.com/ghost-viper2607/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=ghost-viper2607" />
+	 <img height=200 align="center" src="https://raw.githubusercontent.com/ghost-viper2607/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 </div>
 
